@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<config>
+    <host>
+        <alias>aaa</alias>
+        <ip>x.x.x.x</ip>
+        <port>xxxx</port>
+        <cmd>...</cmd>
+        <desc>...</desc>
+        <interface_name>iiii</interface_name>
+    </host>
+    <host>
+        <alias>bbb</alias>
+        <ip>y.y.y.y</ip>
+        <port>ffff</port>
+        <cmd>...</cmd>
+        <desc>...</desc>
+        <interface_name>kkkk</interface_name>
+    </host>
+</config>
